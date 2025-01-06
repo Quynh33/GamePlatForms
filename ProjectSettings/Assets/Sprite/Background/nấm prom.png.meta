@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: b4e509c61f151cf4ba4381a36adc3c92
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_0"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1278
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea60769a802944459a515f03c3701f8
+      internalID: 636209557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_1"
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 829
+        width: 93
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a316e7773c1224eb8e2ed3a5b827ac
+      internalID: -1892637310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_2"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 723
+        width: 120
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0288f86b820fd24f98eb9fc6efc6d4b
+      internalID: 1475633730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_3"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1261
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41022c8d61f4ce3419f8d532f2e8c6e0
+      internalID: -1206502256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_4"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 733
+        width: 116
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd9e74aedc82d24b8152b4bbe17511d
+      internalID: -1965897838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_5"
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 761
+        width: 170
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527a8f1969e591b4e8de1b8c4edf057b
+      internalID: 1679398821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_6"
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 739
+        width: 145
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3392b00302e6eef48a61ce84d65dcf99
+      internalID: -1891305366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_7"
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 893
+        width: 475
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393481ad97d7a404f895c9ffa6260f44
+      internalID: -898275697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_8"
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 928
+        width: 382
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a966f2d397dafd4c820dad44f364788
+      internalID: 2035259313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_9"
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 948
+        width: 78
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17785a423ebd7f1458ccbc3c477bb4f9
+      internalID: -1767791597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_10"
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 944
+        width: 95
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892bcd5cb22dfc8408c7f60070268895
+      internalID: -1328541556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_11"
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 947
+        width: 73
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2923beb0c38a77c4d8bb7fba4503f3d9
+      internalID: -1202712221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_12"
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 956
+        width: 85
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df07355c56325b4786d265daa00356a
+      internalID: 818639759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_13"
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 522
+        width: 492
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47a541f0c13a2d4a8c9db2e0eb6c2fe
+      internalID: 167061060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_14"
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 517
+        width: 456
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa216074210874c9f052d0d5d8cbaf
+      internalID: -1222671869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_15"
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 560
+        width: 69
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a034cbf38632d47b34f8338e241830
+      internalID: 1226382700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_16"
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 571
+        width: 142
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00334a5e568bfb442b946bf7e2803bd3
+      internalID: -558869671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_17"
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 579
+        width: 83
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd6fcd1162814e4386a0a5dc85d6c73
+      internalID: -2114359164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_18"
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 575
+        width: 62
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133abcd002cb49a479e4a72232c58740
+      internalID: -443998859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_19"
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 170
+        width: 218
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb02f16d9a6aa1241bdfe94a8c436122
+      internalID: 1183451727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_20"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 185
+        width: 116
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4bb296532ac2e4981bee3a1ac43e67
+      internalID: -633228273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_21"
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 115
+        width: 173
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3511db582e7afd4284c58999d9872a4
+      internalID: 356579168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_22"
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 143
+        width: 107
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02943839fb8467e4ba0dc91adbbf1c8d
+      internalID: -1089306395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_23"
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 78
+        width: 145
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5824578982a6dba4c8f21799fadcf952
+      internalID: -522580822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_24"
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 89
+        width: 87
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06146da042be2fd41950bdd7b2903d2f
+      internalID: 197609866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_25"
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 17
+        width: 37
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b800bff30e0d544802c2ad1fb92da2
+      internalID: 1621672968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_26"
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 54
+        width: 88
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef2c7bd0238aec469e103d9f9b36dca
+      internalID: 1482615701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_27"
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 48
+        width: 30
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5cd487f1fab184cbefa881b56dc69e
+      internalID: 999155949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_28"
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 74
+        width: 33
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0fc0a0d6140e34f81a6e8772ec8760
+      internalID: 912240032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_29"
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 62
+        width: 31
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87b58176060c044196b0fcb0b41685c
+      internalID: -1539800736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_30"
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 77
+        width: 42
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb3c431d79d1ee449cce10b22bd95bb
+      internalID: -1935260860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_31"
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 65
+        width: 105
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3734fb792e0d2a94da2ef02e934221ea
+      internalID: 1444260437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_32"
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 69
+        width: 106
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dddd441409508847a929cfd1b714c10
+      internalID: -727543798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_33"
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 66
+        width: 81
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cd6694357d69a439645d120dd57cc2
+      internalID: 265853270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "n\u1EA5m prom_34"
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 83
+        width: 102
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8ea11223ae00c43975c7000bd17305
+      internalID: -28857663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "n\u1EA5m prom_0": 636209557
+      "n\u1EA5m prom_1": -1892637310
+      "n\u1EA5m prom_10": -1328541556
+      "n\u1EA5m prom_11": -1202712221
+      "n\u1EA5m prom_12": 818639759
+      "n\u1EA5m prom_13": 167061060
+      "n\u1EA5m prom_14": -1222671869
+      "n\u1EA5m prom_15": 1226382700
+      "n\u1EA5m prom_16": -558869671
+      "n\u1EA5m prom_17": -2114359164
+      "n\u1EA5m prom_18": -443998859
+      "n\u1EA5m prom_19": 1183451727
+      "n\u1EA5m prom_2": 1475633730
+      "n\u1EA5m prom_20": -633228273
+      "n\u1EA5m prom_21": 356579168
+      "n\u1EA5m prom_22": -1089306395
+      "n\u1EA5m prom_23": -522580822
+      "n\u1EA5m prom_24": 197609866
+      "n\u1EA5m prom_25": 1621672968
+      "n\u1EA5m prom_26": 1482615701
+      "n\u1EA5m prom_27": 999155949
+      "n\u1EA5m prom_28": 912240032
+      "n\u1EA5m prom_29": -1539800736
+      "n\u1EA5m prom_3": -1206502256
+      "n\u1EA5m prom_30": -1935260860
+      "n\u1EA5m prom_31": 1444260437
+      "n\u1EA5m prom_32": -727543798
+      "n\u1EA5m prom_33": 265853270
+      "n\u1EA5m prom_34": -28857663
+      "n\u1EA5m prom_4": -1965897838
+      "n\u1EA5m prom_5": 1679398821
+      "n\u1EA5m prom_6": -1891305366
+      "n\u1EA5m prom_7": -898275697
+      "n\u1EA5m prom_8": 2035259313
+      "n\u1EA5m prom_9": -1767791597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

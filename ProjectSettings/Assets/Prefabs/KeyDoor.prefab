@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &725375976741660520
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4617685769967108918}
+  - component: {fileID: 1969758940343785736}
+  m_Layer: 0
+  m_Name: KeyDoor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4617685769967108918
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725375976741660520}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: 0.7048531, w: -0.7093533}
+  m_LocalPosition: {x: -110.94, y: -99.67, z: 0}
+  m_LocalScale: {x: 1.9788847, y: 1.8860303, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1969758940343785736
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 725375976741660520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1244292e337bd0d4eaab906105141bdb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemToGive: {fileID: 11400000, guid: da0e4715560bcbe4c8b11e427bb433e3, type: 2}
+  itemDisplayPrefab: {fileID: 6498490212681264531, guid: 2dc1657055da1be4b9228887491ab515, type: 3}
+  displaySpawnPoint: {fileID: 4753497441024782190, guid: 2dc1657055da1be4b9228887491ab515, type: 3}
+  playerInventory: {fileID: 11400000, guid: 34309508e3d26b74abf6dcd13b1493f2, type: 2}
+  thisItem: {fileID: 11400000, guid: bc3f2f382852acb469dd4cc2e1e1d863, type: 2}
